@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "name": "mongoexpress",
+=======
+  "name": "mongo",
+>>>>>>> dc3997b2c0ef204ddd982c483a77faa761c29683
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -11,9 +15,13 @@
   "license": "ISC",
   "type": "commonjs",
   "dependencies": {
+<<<<<<< HEAD
     "ejs": "^5.0.1",
     "express": "^5.2.1",
     "method-override": "^3.0.0",
     "mongoose": "^9.2.4"
+=======
+    "mongoose": "^9.2.0"
+>>>>>>> dc3997b2c0ef204ddd982c483a77faa761c29683
   }
 }
